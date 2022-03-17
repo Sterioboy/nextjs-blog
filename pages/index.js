@@ -30,7 +30,7 @@ export default function Home({ allPostsData }) {
         <p>
           Hello there 👋 I'm a Full Stack Developer with a passion for building
           great software. My mission is to build a product that makes you look
-          and feel incredible. Feel free to DM me!
+          and feel incredible. Feel free to DM me! 
         </p>
         <p>
           <a href="https://k-sterio.com/" target="_blank">
